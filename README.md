@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3200&pause=900&color=00E5A0&center=true&vCenter=true&width=640&lines=CS+undergrad+building+privacy+tooling;agent-first%3A+BMAD+Method+%2B+Claude+Code;offline-first+%E2%80%A2+zero+network+egress" alt="intro" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3200&pause=900&color=00E5A0&center=true&vCenter=true&width=640&lines=CS+undergrad+building+privacy+tooling;agent-first%3A+spec+%E2%86%92+architecture+%E2%86%92+code;offline-first+%E2%80%A2+zero+network+egress" alt="intro" />
 
 <a href="mailto:kunwarmayanksingh78@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
-<a href="https://linkedin.com/in/mayank-singh-io"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
 <img src="https://komarev.com/ghpvc/?username=mayank-singh-io&style=for-the-badge&color=00E5A0&label=VISITORS" alt="views" />
 
 </div>
@@ -17,7 +17,7 @@ mayank@github:~$ whoami
   role      →  CS undergrad · security & privacy tooling
   based     →  Lucknow, India
   school    →  B.Tech CSE, Chandigarh University (1st year)
-  method    →  BMAD (spec → architecture → impl) + Claude Code
+  method    →  agent-first: spec → architecture → impl
   building  →  Cypher — on-device redaction for cloud LLM prompts
   learning  →  DevOps: CI/CD, containers, Linux server admin
   status    →  open to internships & collaborations
@@ -27,7 +27,7 @@ mayank@github:~$ _
 
 I build things end to end — research and threat modelling through implementation, tests and deployment. Most of it runs **locally**: if a feature can work without touching a network, it does.
 
-I also work **agent-first on every project**. Specs and architecture go through the BMAD Method — including Party Mode sessions that pressure-test designs across specialist agent personas before any code exists — with Claude Code as the implementation and pairing tool, backed by tests and CI gates.
+I also work **agent-first on every project**, using a structured spec-to-architecture-to-implementation pipeline. Designs get pressure-tested against multiple specialist perspectives before any code exists, then built and iterated with Claude Code as the implementation and pairing tool — backed by tests and CI gates.
 
 ---
 
