@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3200&pause=900&color=00E5A0&center=true&vCenter=true&width=640&lines=CS+undergrad+building+privacy+tooling;agent-first%3A+BMAD+Method+%2B+Claude+Code;offline-first+%E2%80%A2+zero+network+egress" alt="intro" />
 
 <a href="mailto:kunwarmayanksingh78@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+<a href="https://linkedin.com/in/mayank-singh-io"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
 <img src="https://komarev.com/ghpvc/?username=mayank-singh-io&style=for-the-badge&color=00E5A0&label=VISITORS" alt="views" />
 
 </div>
