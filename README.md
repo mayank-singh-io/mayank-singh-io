@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3200&pause=900&color=00E5A0&center=true&vCenter=true&width=640&lines=CS+undergrad+building+privacy+tooling;agent-first%3A+spec+%E2%86%92+architecture+%E2%86%92+code;offline-first+%E2%80%A2+zero+network+egress" alt="intro" />
 
 <a href="mailto:kunwarmayanksingh78@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+<a href="https://www.linkedin.com/in/mayank-singh-io"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
 <img src="https://komarev.com/ghpvc/?username=mayank-singh-io&style=for-the-badge&color=00E5A0&label=VISITORS" alt="views" />
 
 </div>
@@ -51,7 +51,7 @@ I also work **agent-first on every project**, using a structured spec-to-archite
 
 ### Selected work
 
-Several repos below are private while in development — happy to walk through the code or give access on request.
+Several repos below are private while in development (Nightfall Desktop is public) — happy to walk through the code or give access on request.
 
 <table>
 <tr>
@@ -105,6 +105,22 @@ Built, deployed and maintain the production site for a Lucknow-based architectur
 Responsive component-based pages, optimised image delivery, and ongoing maintenance and content updates.
 
 `Next.js` `React` `Vercel` `Supabase`
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+#### 🌙 [Nightfall Desktop](https://github.com/mayank-singh-io/Nightfall-Desktop)
+**Mac-inspired night-sky desktop for Windows 10** · `open source` · `MIT`
+
+<a href="https://github.com/mayank-singh-io/Nightfall-Desktop"><img src="https://raw.githubusercontent.com/mayank-singh-io/Nightfall-Desktop/main/screenshots/desktop.png" alt="Nightfall Desktop" width="100%" /></a>
+
+A calm, cohesive desktop setup with **nothing extra to install**. The Moon Clock widget is compiled from source on the user's own PC with the C# compiler that ships with Windows — showing time, tonight's real moon phase, the best-placed constellation, and what's playing via Windows media controls. It also centres taskbar icons like a dock and makes the taskbar clear or frosted, **replacing TaskbarX and TranslucentTB**.
+
+Step away and an **away mode** fades in a full-screen sky: the real moon rendered from NASA's lunar maps and lit to tonight's phase, real constellations, meteor showers, live weather that matches outside, and sky colours that follow the time of day — while skipping full-screen apps and never locking during playback. A matching Chromium new-tab extension and browser theme complete the set, and the whole thing installs, backs up and **uninstalls with one PowerShell command**.
+
+`C#` `PowerShell` `JavaScript` `Chromium MV3` `Open-Meteo`
 
 </td>
 </tr>
